@@ -10,9 +10,9 @@ paginate        = 18
   subtitle    = "Thoughts, musings, etc."
 
   cover       = "img/blog-cover.jpg"
-  description = "Here is a description of your site."
+  description = "Antispin - thoughts, photos and music!"
   metaDescription = ""
-  googleAnalytics = ""
+  googleAnalytics = "UA-22323417-1"
   customCSS = []
   RSSLink = ""
 

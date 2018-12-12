@@ -8,11 +8,8 @@ image = "https://ap-content.storage.googleapis.com/2009/04/090410-img-0495-da.jp
 slug = "about"
 tags = ["General"]
 title = "About"
-
 +++
 
-
- 
 
 Here is where I write about myself.
 
