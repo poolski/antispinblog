@@ -1,0 +1,59 @@
+baseurl         = "/"
+theme           = "casper-two"
+languageCode    = "en-US"
+disqusShortname = "antispin"
+paginate        = 18
+#SectionPagesMenu = "main"
+
+[params]
+  title       = "Antispin"
+  subtitle    = "Thoughts, musings, etc."
+
+  cover       = "img/blog-cover.jpg"
+  description = "Here is a description of your site."
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+
+  twitterName = "poolski"
+  githubName = "poolski"
+
+  # logo = "hugo-logo.png"
+  # orgName = "EM"
+  # orgWebsite = "https://www.telematika.org"
+  # orgDescription = "Here is a description placeholder for your org"
+
+  author = "Kyrill"
+  authorAvatar = "/img/ghost-icon.png"
+  # authorLocation = "Bandung, ID"
+  authorWebsite = "https://antisp.in/"
+  authorDescription = "Itinerant photographer, firespinner, poly feminist, he/him."
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/:slug/"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "Photography"
+  url = "/tags/photography/"
+  weight = 100
+
+[[menu.main]]
+  name = "Tech"
+  url = "/tags/tech/"
+  weight = 99
+
+[[menu.main]]
+  name = "Life & relationships"
+  url = "/tags/life/"
+  weight = 95
