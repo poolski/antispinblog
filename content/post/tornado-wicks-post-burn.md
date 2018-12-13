@@ -11,7 +11,7 @@ title = "Tornado Wicks - Post Burn"
 +++
 
 
-Ok, so as I mentioned in my [previous post](http://antisp.in/blog/moonblaze-wicks) on the topic – I made some lovely new Tornado wicks (so called after the Tornado weave that is used to make them), following Jez’s instructions on the topic and with some modifications that Alien Jon and I came up with.
+Ok, so as I mentioned in my [previous post](https://antisp.in/blog/moonblaze-wicks) on the topic – I made some lovely new Tornado wicks (so called after the Tornado weave that is used to make them), following Jez’s instructions on the topic and with some modifications that Alien Jon and I came up with.
 
 On Sunday I got the chance to play with them alight and after some fairly heavy thrashing I can now post a pretty balanced review. It’s not biased, honest!
 

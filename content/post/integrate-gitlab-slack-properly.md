@@ -14,9 +14,9 @@ title = "Integrate Gitlab with Slack properly"
 
 In case you haven’t heard of Gitlab yet, it’s an open-source alternative to GitHub’s own Github-FI software package. Github-FI is Github’s self-hosted version of their SaaS offering. Basically, you can get your own GitHub inside your network.
 
-However, if you *don’t* have several thousand dollars to blow, you can use GitLab-CE (Community Edition) instead. It offers a large subset of features that GitHub has with many integrations with external services. What’s even better is that many services are now starting to develop [GitLab](http://about.gitlab.com) integration, but the number is still low.
+However, if you *don’t* have several thousand dollars to blow, you can use GitLab-CE (Community Edition) instead. It offers a large subset of features that GitHub has with many integrations with external services. What’s even better is that many services are now starting to develop [GitLab](https://about.gitlab.com) integration, but the number is still low.
 
-One of the most useful services for DevOps/Project teams that I’ve come across is Slack. [Slack](http://slack.com) allows you to communicate and collaborate in realtime, regardless of OS, location, etc. It’s slick, well-designed and integrates with many other web services. ![](https://ap-content.storage.googleapis.com/2014/11/app-200x200.png)
+One of the most useful services for DevOps/Project teams that I’ve come across is Slack. [Slack](https://slack.com) allows you to communicate and collaborate in realtime, regardless of OS, location, etc. It’s slick, well-designed and integrates with many other web services. ![](https://ap-content.storage.googleapis.com/2014/11/app-200x200.png)
 
 GitLab has had Slack integration since GitLab 6.4, but like its HipChat integration the functionality is limited to pushing notifications of `git push` events to chat. This generates a lot of noise in busy projects while having minimal *signal*.
 

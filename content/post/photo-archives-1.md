@@ -19,11 +19,11 @@ It’s great to dig through and find shots you’ve forgotten about! It’s like
 I’ll try to post more of these “Photo Archive” blogs in future!
 
 <figure class="thumbnail wp-caption aligncenter" id="attachment_811" style="width: 610px">
-![](http://antisp.in/blog/wp-content/uploads/2011/03/5575127523_44b1bc1948_b.jpg)
+![](https://antisp.in/blog/wp-content/uploads/2011/03/5575127523_44b1bc1948_b.jpg)
 <figcaption class="caption wp-caption-text">My friend Emma!</figcaption></figure> 
 
 <figure class="thumbnail wp-caption aligncenter" id="attachment_55" style="width: 610px">
-![](http://antisp.in/blog/wp-content/uploads/2011/03/5575118061_a0d9861908_b1.jpg)
+![](https://antisp.in/blog/wp-content/uploads/2011/03/5575118061_a0d9861908_b1.jpg)
 <figcaption class="caption wp-caption-text">An icicle, hanging on a railing!</figcaption></figure> 
 
  

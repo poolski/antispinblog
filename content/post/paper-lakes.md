@@ -11,9 +11,9 @@ title = "Paper Lakes"
 +++
 
 
-I saw [this project](http://thisiscolossal.com/2011/01/paper-lakes/) on thisiscolossal.com and I’m determined to make this into a piece to go on my wall. This is so simple and elegant and, frankly, amazing.
+I saw [this project](https://thisiscolossal.com/2011/01/paper-lakes/) on thisiscolossal.com and I’m determined to make this into a piece to go on my wall. This is so simple and elegant and, frankly, amazing.
 
-All credit goes to [thisiscolossal](http://thisiscolossal.com/) and [crafterall](http://www.etsy.com/shop/Crafterall?section_id=7688979) for finding and making this!
+All credit goes to [thisiscolossal](https://thisiscolossal.com/) and [crafterall](https://www.etsy.com/shop/Crafterall?section_id=7688979) for finding and making this!
 
 ![](https://antisp.in/blog/wp-content/uploads/2011/10/lakes-1-600x4001.jpg "lakes1")
 

@@ -20,7 +20,7 @@ This is a copy of an article I came across while looking at swordsmithing on Wik
 > To Europeans, Damascus steel blades seemed magical. Not only could they cut a piece of silk in half as it fell to the floor, they could cleave rocks and their own swords without losing sharpness. The problem facing sword smiths was how to produce steel that was both hard and malleable. Too much carbon and the steel is hard and brittle; too little and it is too soft and malleable to hold an edge when sharpened. Damascus steel blades were forged out of small pure cakes of steel containing around 1.6-1.7 per cent carbon, called wootz. Produced in India, wootz cakes were shipped to Damascus where expert sword smiths fashioned them into blades.
 > 
 > <dl class="wp-caption alignright" id="" style="width: 410px;"><dt class="wp-caption-dt">
-![](http://www.flickr.com/photos/jasleen_kaur/4211340481/ "koftgari by jasleen_kaur, on Flickr")
+![](https://www.flickr.com/photos/jasleen_kaur/4211340481/ "koftgari by jasleen_kaur, on Flickr")
 </dt><dd class="wp-caption-dd">A damascus steel blade</dd></dl> 
 > 
 > Steel that contains this amount of carbon forms plates of cementite (Fe<sub>3</sub>C) which, on its own, makes the steel brittle. However, during the forging process at around 800<sup>o</sup>C, small amounts of ‘impurities’ were added containing many first-row transition elements (such as V, Cr, Mn, Co, and Ni), tungsten, and some rare-earths. which together had the effect of forming the cementite into bands. This gave the blades great strength, malleability, and a distinctive wavy-band pattern known as a damask. The skill had been lost by the 18<sup>th</sup> century,   when supplies of these ores and impurities ran out.

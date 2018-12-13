@@ -12,7 +12,7 @@ title = "ZFS Send and Receive"
 +++
 
 
-As I mentioned in [a previous post](http://antisp.in/blog/tech/restoring-from-snapshots-with-zfs/ "Restoring from snapshots with ZFS"), I’m running a series on ZFS storage systems mostly for the purposes of remembering this stuff and tangentially on the off chance that it’ll help someone too!
+As I mentioned in [a previous post](https://antisp.in/blog/tech/restoring-from-snapshots-with-zfs/ "Restoring from snapshots with ZFS"), I’m running a series on ZFS storage systems mostly for the purposes of remembering this stuff and tangentially on the off chance that it’ll help someone too!
 
 Today’s documentation entry is concerned with using ZFS’ *send* and *receive* commands to backup datasets over a network.
 

@@ -14,9 +14,9 @@ title = "HP MicroServer + ZFS = Win"
 
 I recently procured one of these beauties after staring enviously at the one we have on our desk for testing at work.
 
-![](http://antisp.in/blog/wp-content/uploads/2012/05/521986_599137269807_285601433_2567868_1327492712_n.jpg)
+![](https://antisp.in/blog/wp-content/uploads/2012/05/521986_599137269807_285601433_2567868_1327492712_n.jpg)
 
-It’s a [HP ProLiant MicroServer](http://www.ebuyer.com/281915-hp-proliant-turion-ii-n40l-microserver-100-cashback-658553-421) – a bit of a mouthful, but a good piece of kit! It comes with
+It’s a [HP ProLiant MicroServer](https://www.ebuyer.com/281915-hp-proliant-turion-ii-n40l-microserver-100-cashback-658553-421) – a bit of a mouthful, but a good piece of kit! It comes with
 
 - 2GB RAM
 - 250GB HDD
@@ -31,16 +31,16 @@ I bought it after umm-ing and aah-ing about building a replacement for my ageing
 So I got this thing after hearing rave reviews of how easy they are to run. Having populated it and powered it on, I found that it was so bloody quiet that if the little green light wasn’t switched on, I’d have no clue it was on in the first place…
 
 <figure class="thumbnail wp-caption aligncenter" id="attachment_1565" style="width: 498px">
-![](http://antisp.in/blog/tech/restoring-from-snapshots-with-zfs/ "Restoring from snapshots with ZFS")
+![](https://antisp.in/blog/tech/restoring-from-snapshots-with-zfs/ "Restoring from snapshots with ZFS")
 , so that’s what I went with, especially after seeing this graph:
 
-![](http://antisp.in/blog/wp-content/uploads/2012/05/iops-perfom1-480x327.jpg)
+![](https://antisp.in/blog/wp-content/uploads/2012/05/iops-perfom1-480x327.jpg)
 
 Even though this measures performance against Solaris Express, based on the data here, OpenSolaris would wipe the floor with FreeNAS.
 
 The installation went by without a hitch! The unit quickly DHCP’d itself an address which is fine by me. Once that was done, it was time to apply updates and reboot – again, no worries whatsoever.
 
-While this was going on, I stumbled across [napp-it](http://napp-it.org/), a NAS distro. It turns out that it can also serve as a frontend to OpenIndiana. While I was happy to administer the server from commandline, I figured that it wouldn’t hurt to have a graphical interface for when I was feeling lazy.
+While this was going on, I stumbled across [napp-it](https://napp-it.org/), a NAS distro. It turns out that it can also serve as a frontend to OpenIndiana. While I was happy to administer the server from commandline, I figured that it wouldn’t hurt to have a graphical interface for when I was feeling lazy.
 
 Installation was, again, ridiculously easy:
 

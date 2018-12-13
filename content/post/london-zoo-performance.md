@@ -12,7 +12,7 @@ title = "London Zoo Performance"
 +++
 
 
-Last month, [London Fire Spinners](http://lfs.me.uk) performed for the [#TheMovement](https://twitter.com/hashtag/THEMOVEMENT?src=hash) global launch party at ZSL London Zoo. It was a lot of fun for all concerned and we had a great time.
+Last month, [London Fire Spinners](https://lfs.me.uk) performed for the [#TheMovement](https://twitter.com/hashtag/THEMOVEMENT?src=hash) global launch party at ZSL London Zoo. It was a lot of fun for all concerned and we had a great time.
 
 I took some photos, so here they are!
 

@@ -19,10 +19,10 @@ However, I did come across something that is, I think, quite a serious issue in 
 The kevlar was so loosely woven that the heads started to disintegrate as the fire had spread to inside the head. Not only that, but I got burns from the kevlar head itself – something that has never happened before.
 
 <figure class="thumbnail wp-caption aligncenter" id="attachment_389" style="width: 410px">
-![](http://antisp.in/blog/wp-content/uploads/2011/03/wpid-1301092483697.jpg)
+![](https://antisp.in/blog/wp-content/uploads/2011/03/wpid-1301092483697.jpg)
 <figcaption class="caption wp-caption-text">Poi head burns after a few days</figcaption></figure>
 
-As I said before, the fire was actually burning **inside** the kevlar head itself and that’s what burned me. I’m wondering if others with Moonblaze heads have had the same experience, because [my heads](http://antisp.in/blog/wicks "Buy Fire Poi") have never burned me. Sure, I’ve had chain brand plenty of times but the heads themselves burn relatively cool and don’t cause burns on contact.
+As I said before, the fire was actually burning **inside** the kevlar head itself and that’s what burned me. I’m wondering if others with Moonblaze heads have had the same experience, because [my heads](https://antisp.in/blog/wicks "Buy Fire Poi") have never burned me. Sure, I’ve had chain brand plenty of times but the heads themselves burn relatively cool and don’t cause burns on contact.
 
  
 

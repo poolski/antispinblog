@@ -13,7 +13,7 @@ title = "C2C - Happy"
 
 
 C2C are a collective of four French DJs/turntablists who make e
-Paul, of [electromusic.com](http://electro-music.com/ "Electo Music") and [Edison’s Ephemera](http://electro-music.com/forum/topic-33403.html "Edison's Ephemera") fame was playing these in his studio and I was immediately intrigued. They appeal to some far corner of the brain that enjoys a combination of ambient sounds and clicky tones and tiny quirky detail.
+Paul, of [electromusic.com](https://electro-music.com/ "Electo Music") and [Edison’s Ephemera](https://electro-music.com/forum/topic-33403.html "Edison's Ephemera") fame was playing these in his studio and I was immediately intrigued. They appeal to some far corner of the brain that enjoys a combination of ambient sounds and clicky tones and tiny quirky detail.
 
 It’s a collection of four tracks, collectively titled Seascaping Monthly in 4 or 5 Movements by a guy I’ve never heard of, called [.tape.](https://www.facebook.com/pages/tape/151756927844 ".tape.").
 

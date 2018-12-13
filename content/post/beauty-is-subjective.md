@@ -17,7 +17,7 @@ A friend of mine posted this on her Tumblr blog. So I’m sharing it too.
 Attach this to your mirror. Or don’t. It’s entirely up to you!
 
 <figure class="thumbnail wp-caption aligncenter" style="width: 510px">
-![](http://villiljos.tumblr.com/post/5487894203/this-should-be-printed-on-every-mirror-im-going)
+![](https://villiljos.tumblr.com/post/5487894203/this-should-be-printed-on-every-mirror-im-going)
 <figcaption class="caption wp-caption-text">This should be on mirrors everywhere. </figcaption></figure> 
 
  

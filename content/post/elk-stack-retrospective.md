@@ -34,7 +34,7 @@ I quickly realised that this wouldn’t work in the long-term as event rates inc
 
 - Commissioned a new, dedicated ES instance to store the data and added it to the cluster that Logstash was running on its own.
 - Once the shards had replicated, I shut down the LS internal Elasticsearch instance and reconfigured LS to write to the dedicated ES cluster (of one device)
-- In addition, I replaced the Logstash instances on the client nodes with a lighter-weight [Lumberjack/Logstash-forwarder](http://antisp.in/2014/03/logstash-forwarder/ "Logstash part 1.1: logstash-forwarder") instance. LSF is built in Go and will run on any platform with minimal requirements, unlike Logstash proper which needs a JVM and is much more memory-intensive.
+- In addition, I replaced the Logstash instances on the client nodes with a lighter-weight [Lumberjack/Logstash-forwarder](https://antisp.in/2014/03/logstash-forwarder/ "Logstash part 1.1: logstash-forwarder") instance. LSF is built in Go and will run on any platform with minimal requirements, unlike Logstash proper which needs a JVM and is much more memory-intensive.
 
 #### v3
 
@@ -47,7 +47,7 @@ The main problem was that while the lumberjack instances would queue up events t
 
 Logstash is capable of using Redis or another message queue to handle variable event rates, so I set up a “logstash relay” box which ran a simple, lightweight instance of LS with minimal configuration (no event processing, just forwarding) which dumped everything into Redis and LS1 (the indexer) would then connect to the Redis instance and grab events off the queue to process them.
 
-This system worked pretty well for a time until several [lumberjack/LSF](http://antisp.in/2014/03/logstash-forwarder/ "Logstash part 1.1: logstash-forwarder") agents went crazy and started dumping millions of events into the queue from old log files that they decided to parse. This was a Bad Thing because Redis writes its queue to disk by default and when it runs out of disk space, there is no easy way (that I knew of at the time) to throttle incoming events. This ends up crashing the Redis instance and stops the relay dead.
+This system worked pretty well for a time until several [lumberjack/LSF](https://antisp.in/2014/03/logstash-forwarder/ "Logstash part 1.1: logstash-forwarder") agents went crazy and started dumping millions of events into the queue from old log files that they decided to parse. This was a Bad Thing because Redis writes its queue to disk by default and when it runs out of disk space, there is no easy way (that I knew of at the time) to throttle incoming events. This ends up crashing the Redis instance and stops the relay dead.
 
 So, some further re-architecture was done.
 
@@ -73,7 +73,7 @@ Here are some recommendations for building out a resilient ELK stack
 
 ##### Logstash
 
-- CPU. You need lots of CPU and as little contention as possible. Depending on just how much processing you’re doing using [Grok](http://antisp.in/2014/04/useful-logstash-grok-patterns/ "Useful Logstash GROK patterns") and other filters, the LS workers can become saturated and if your CPU is being stressed already, LS is likely to lock up and fail very un-gracefully.
+- CPU. You need lots of CPU and as little contention as possible. Depending on just how much processing you’re doing using [Grok](https://antisp.in/2014/04/useful-logstash-grok-patterns/ "Useful Logstash GROK patterns") and other filters, the LS workers can become saturated and if your CPU is being stressed already, LS is likely to lock up and fail very un-gracefully.
 - You will need to balance fine-grained analysis of your events with CPU use.
 - Playing with the number of workers that LS starts can give you a boost in event rate at the cost of using more CPU. To set this, edit */etc/default/logstash* (in Debian) and set the following: LS_OPTS="-w 6"
 

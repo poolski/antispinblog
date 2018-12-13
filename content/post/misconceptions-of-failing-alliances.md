@@ -11,7 +11,7 @@ title = "Misconceptions of failing alliances"
 +++
 
 
-![](https://blog.mortworks.net/wp-content/uploads/2007/08/eve_logo1.jpg) This is EVE. A game of [incredible depth](http://www.shacknews.com/featuredarticle.x?id=527 "The Spy Game") and limitless possibilities for the good, the evil, the criminally insane and the megalomaniacal. A game where anything goes.
+![](https://blog.mortworks.net/wp-content/uploads/2007/08/eve_logo1.jpg) This is EVE. A game of [incredible depth](https://www.shacknews.com/featuredarticle.x?id=527 "The Spy Game") and limitless possibilities for the good, the evil, the criminally insane and the megalomaniacal. A game where anything goes.
 
 - Player-created markets
 - Territorial conflict

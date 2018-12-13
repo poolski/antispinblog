@@ -18,6 +18,6 @@ It sort of mirrors how I came to be at this point in my life – by saying “ye
 
 <iframe allowfullscreen="" frameborder="0" height="365" src="https://www.youtube.com/embed/JnfBXjWm7hc?feature=oembed" width="648"></iframe>
 
-It’s how I got round to going to Burning Man, despite never having been and being completely out of my depth. Not only that, but I’m going to the desert for **two** weeks to help a friend build his [art project](http://www.kickstarter.com/projects/1705373243/the-pier-burning-man-2011-art-installation?ref=live "The Pier 2011"). There is no way I’d have gone out there if I hadn’t just said “yeah sure, what the hell”.
+It’s how I got round to going to Burning Man, despite never having been and being completely out of my depth. Not only that, but I’m going to the desert for **two** weeks to help a friend build his [art project](https://www.kickstarter.com/projects/1705373243/the-pier-burning-man-2011-art-installation?ref=live "The Pier 2011"). There is no way I’d have gone out there if I hadn’t just said “yeah sure, what the hell”.
 
 

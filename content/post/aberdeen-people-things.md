@@ -17,7 +17,7 @@ I’m currently in Aberdeen, catching up with some creative folks I have not see
 Enjoy!
 
 <figure class="thumbnail wp-caption aligncenter" id="attachment_838" style="width: 410px">
-![](http://antisp.in/blog/wp-content/uploads/2011/04/5624743860_7c08f56b08_b.jpg)
+![](https://antisp.in/blog/wp-content/uploads/2011/04/5624743860_7c08f56b08_b.jpg)
 <figcaption class="caption wp-caption-text">Spiral Wrap</figcaption></figure> 
 
  

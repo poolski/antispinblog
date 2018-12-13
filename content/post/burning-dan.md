@@ -17,7 +17,7 @@ Here’s a video of him explaining some things about the world we live in.
 
 <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" height="390" width="480"><param name="src" value="https://blip.tv/play/hLN%2BgoKQKAI%2Em4v"></param><param name="allowfullscreen" value="true"></param><embed allowfullscreen="true" height="390" src="https://blip.tv/play/hLN%2BgoKQKAI%2Em4v" type="application/x-shockwave-flash" width="480"></embed></object>
 
-He also helped found [hitRECord.org](http://hitrecord.org "hitRECord") with his brother, Joe. It’s hit Joe pretty hard, as well as [Tea Faerie](http://pronoia.org/) and [Thom](http://blog.major-thom.com/ "Major Thom's blog") who are all very close. There’s a huge number of folk contributing everything under the sun on hitRECord [here](http://www.hitrecord.org/records/234697 "Burning Dan"), and I encourage you to join them.
+He also helped found [hitRECord.org](https://hitrecord.org "hitRECord") with his brother, Joe. It’s hit Joe pretty hard, as well as [Tea Faerie](https://pronoia.org/) and [Thom](https://blog.major-thom.com/ "Major Thom's blog") who are all very close. There’s a huge number of folk contributing everything under the sun on hitRECord [here](https://www.hitrecord.org/records/234697 "Burning Dan"), and I encourage you to join them.
 
 Dan was an awesome person. In light of that, remember a few things:
 

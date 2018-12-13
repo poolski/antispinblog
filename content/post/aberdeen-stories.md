@@ -15,7 +15,7 @@ After my lovely trip up to the Frozen North to catch up with friends long absent
 
 So firstly, massive thanks to my perpetually happy friend Corinne, I’ve been introduced to Blogotheque which has lots of delicious, crunchy and smooth music from all manner of artists on. Here’s one that I love especially
 
-<div class="embed-vimeo" style="text-align: center;"><iframe allowfullscreen="" frameborder="0" height="321" mozallowfullscreen="" src="https://player.vimeo.com/video/15949199" webkitallowfullscreen="" width="570"></iframe></div>As well as discovering new music, Corinne, Cat and I got to geek out over poi for about 6 odd hours which was many different kinds of fun. I hadn’t had a chance to jam with Corinne for a long time. Some progress was made with various tech poi things and I have another couple of takers for the wicks that I made – read about that [here](http://antisp.in/blog/moonblaze-wicks/) – which is pretty awesome.
+<div class="embed-vimeo" style="text-align: center;"><iframe allowfullscreen="" frameborder="0" height="321" mozallowfullscreen="" src="https://player.vimeo.com/video/15949199" webkitallowfullscreen="" width="570"></iframe></div>As well as discovering new music, Corinne, Cat and I got to geek out over poi for about 6 odd hours which was many different kinds of fun. I hadn’t had a chance to jam with Corinne for a long time. Some progress was made with various tech poi things and I have another couple of takers for the wicks that I made – read about that [here](https://antisp.in/blog/moonblaze-wicks/) – which is pretty awesome.
 
 <figure class="thumbnail wp-caption alignright" style="width: 189px">
 ![](https://ap-content.storage.googleapis.com/2010/11/71987_538070802497_285601433_1981285_1606952_n1.jpg "Spiral Wraps")

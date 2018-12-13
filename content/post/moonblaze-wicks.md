@@ -21,13 +21,13 @@ The monkeys are great but they’re heavy and because they’re spherical, they 
 ![](https://ap-content.storage.googleapis.com/2017/082017/08/2010-2F10-2F5109501591_10a6dc5a33_m.jpg)
 
 
-So I set out to find alternative designs. Initially, I was looking at buying some Isis heads from [Salza.se](http://salza.se/) to replace mine but at £90.00 odd a pair plus shipping, I changed my mind. Salza make great-quality gear but I can’t afford to buy and ship a set of poi heads for ~£100.
+So I set out to find alternative designs. Initially, I was looking at buying some Isis heads from [Salza.se](https://salza.se/) to replace mine but at £90.00 odd a pair plus shipping, I changed my mind. Salza make great-quality gear but I can’t afford to buy and ship a set of poi heads for ~£100.
 
 I tried making some Isis heads myself as I found how to make them on YouTube. The first prototype was made from ordinary jute rope and worked reasonably well, but price per metre for kevlar rope was too high to make that a viable option.
 
-I came across another design on http://www.youtube.com/watch?v=7kS2dNjuajQ again which looks more like a Moonblaze wick, but done with 4 narrow strips of Kevlar as opposed to 2 wide ones. That looked more promising as it used 8-10mm strips of kevlar wick tape. Also, by virtue of its design, it could hold itself together much better than similar wicks as tightening all the strips equally means none of them can slip much during use.
+I came across another design on https://www.youtube.com/watch?v=7kS2dNjuajQ again which looks more like a Moonblaze wick, but done with 4 narrow strips of Kevlar as opposed to 2 wide ones. That looked more promising as it used 8-10mm strips of kevlar wick tape. Also, by virtue of its design, it could hold itself together much better than similar wicks as tightening all the strips equally means none of them can slip much during use.
 
-I then had a chat with Jon about the relative benefits of the different designs and he said that his moonblaze wicks were very good, but he’d love to see the “4×4 moonblaze” design. We also spoke about chain attachment strategies and how to better weight the heads. After all that, I ordered 12m of 10mm tape from [firetoys](http://firetoys.co.uk/ "Firetoys.co.uk") and it arrived yesterday morning.
+I then had a chat with Jon about the relative benefits of the different designs and he said that his moonblaze wicks were very good, but he’d love to see the “4×4 moonblaze” design. We also spoke about chain attachment strategies and how to better weight the heads. After all that, I ordered 12m of 10mm tape from [firetoys](https://firetoys.co.uk/ "Firetoys.co.uk") and it arrived yesterday morning.
 
 I immediately set forth to make some awesome heads and here are the results.
 

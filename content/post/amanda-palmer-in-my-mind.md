@@ -12,7 +12,7 @@ title = "Amanda Palmer - In My Mind"
 +++
 
 
-My friend Katelyn played me In My Mind by Amanda Palmer on her guitar and it stuck. So now I’ve managed to [track down the tabs](http://tabs.ultimate-guitar.com/a/amanda_palmer/in_my_mind_crd.htm "In My Mind tabs") and lyrics and am going to start learning it! The lyrics are a great reminder to live in the present instead of constantly planning and thinking about how things are going to pan out in the future. Hippy-esque rant over!
+My friend Katelyn played me In My Mind by Amanda Palmer on her guitar and it stuck. So now I’ve managed to [track down the tabs](https://tabs.ultimate-guitar.com/a/amanda_palmer/in_my_mind_crd.htm "In My Mind tabs") and lyrics and am going to start learning it! The lyrics are a great reminder to live in the present instead of constantly planning and thinking about how things are going to pan out in the future. Hippy-esque rant over!
 
 Enjoy the tune! That and Amanda Palmer’s CD cover looks quite amusing!
 

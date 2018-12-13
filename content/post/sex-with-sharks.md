@@ -12,9 +12,9 @@ title = "Sex With Sharks"
 +++
 
 
-This was posted on [Books of Adam](http://www.booksofadam.com/2012/02/texting-level-expert.html), hitherto-unknown (to me) blog and follows the conversation between Adam, who went to Vegas and his friend Kristin in NY.
+This was posted on [Books of Adam](https://www.booksofadam.com/2012/02/texting-level-expert.html), hitherto-unknown (to me) blog and follows the conversation between Adam, who went to Vegas and his friend Kristin in NY.
 
-![](http://antisp.in/blog/wp-content/uploads/2012/05/CJOI.jpg)
+![](https://antisp.in/blog/wp-content/uploads/2012/05/CJOI.jpg)
 
 Sex with sharks gives you Shark AIDS.
 

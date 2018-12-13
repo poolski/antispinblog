@@ -28,7 +28,7 @@ When you have 2-3 machines to manage, it’s feasible to look through the releva
 
 **Across forty web servers. **
 
-This, however, is not a theoretical discourse into how to do this. I use [Logstash](http://www.logstash.net/) combined [with Collectd](http://logstash.net/docs/1.3.3/inputs/collectd). There are other solutions out there – Splunk comes to mind, if you hate your money so much you want to pay exorbitant license fees.
+This, however, is not a theoretical discourse into how to do this. I use [Logstash](https://www.logstash.net/) combined [with Collectd](https://logstash.net/docs/1.3.3/inputs/collectd). There are other solutions out there – Splunk comes to mind, if you hate your money so much you want to pay exorbitant license fees.
 
 ![](https://ap-content.storage.googleapis.com/2014/03/Selection_017.png)
 
@@ -51,11 +51,11 @@ In days gone by, you had to install Logstash manually by downloading the Java *
 
 These days, all you need to do is add the Logstash and Elasticsearch repos to your sources.list (as root), update and install.
 
-echo "deb http://packages.elasticsearch.org/logstash/1.3/debian stable main" > /etc/apt/sources.list.d/logstash.list echo "deb http://packages.elasticsearch.org/elasticsearch/1.0/debian stable main" > /etc/apt/sources.list.d/elasticsearch.list wget -O - http://packages.elasticsearch.org/GPG-KEY-elasticsearch | apt-key add - apt-get update apt-get install logstash elasticsearch
+echo "deb https://packages.elasticsearch.org/logstash/1.3/debian stable main" > /etc/apt/sources.list.d/logstash.list echo "deb https://packages.elasticsearch.org/elasticsearch/1.0/debian stable main" > /etc/apt/sources.list.d/elasticsearch.list wget -O - https://packages.elasticsearch.org/GPG-KEY-elasticsearch | apt-key add - apt-get update apt-get install logstash elasticsearch
 
 ***Update ***
 
-***Alternatively, go here: [http://www.elasticsearch.org/overview/elkdownloads/](http://www.elasticsearch.org/overview/elkdownloads/) and download the individual components as .deb or .rpm packages to taste***
+***Alternatively, go here: [https://www.elasticsearch.org/overview/elkdownloads/](https://www.elasticsearch.org/overview/elkdownloads/) and download the individual components as .deb or .rpm packages to taste***
 
 You’ll also need to install redis, available from the Debian repos
 
@@ -82,7 +82,7 @@ root 23369 40.3 7.0 2876996 1190452 ? Sl 06:25 266:25 /usr/bin/java -Xmx2g -Djav
 
 At this point, Logstash should be tailing your syslog and feeding the events it receives into Elasticsearch. But how do we get from logs to pretty pictures like this?
 
-![](http://www.elasticsearch.org/overview/kibana/).
+![](https://www.elasticsearch.org/overview/kibana/).
 
 You can install it wherever you like – it’s a JavaScript frontend to Elasticsearch and you can run it on whatever web server you like – you don’t need PHP or any other fancy business.
 
@@ -90,11 +90,11 @@ Download it, unpack it to a directory on your web server (this can be nginx/apac
 
 If you’re installing on a server other than your Logstash box, you’ll need to make sure Kibana can connect to your Elasticsearch instance. Edit **config.js** in your Kibana install folder and change the line that says
 
-elasticsearch: "http://"+window.location.hostname+":9200",
+elasticsearch: "https://"+window.location.hostname+":9200",
 
 to
 
-elasticsearch: "http://yourserver.yourdomain:9200",
+elasticsearch: "https://yourserver.yourdomain:9200",
 
 You can also point it to an IP. As long as port 9200 is accessible, it should work.
 

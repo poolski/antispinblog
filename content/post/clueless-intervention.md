@@ -16,16 +16,16 @@ title = "Clueless Intervention Part I"
 
 Yet another blog about that wonderfully detailed and in-depth game, EVE Online which I play on a fairly regular basis.
 
-This time it’s less about what I do on the day-to-day basis and the War and so forth. I’d like to take a step back, or out, if you will and talk about [CCP](http://eve-online.com/)‘s intervention in the game.
+This time it’s less about what I do on the day-to-day basis and the War and so forth. I’d like to take a step back, or out, if you will and talk about [CCP](https://eve-online.com/)‘s intervention in the game.
 
-The case in point is that over the last 6 months or so, CCP have implemented a number of changes to the game, some of which have been beneficial, while others have been detrimental. Take, for instance the “Titan Nerf” (discussed as part of a dev blog [here](http://myeve.eve-online.com/devblog.asp?a=blog&bid=474 "Titan Nerf")). This meant that:
+The case in point is that over the last 6 months or so, CCP have implemented a number of changes to the game, some of which have been beneficial, while others have been detrimental. Take, for instance the “Titan Nerf” (discussed as part of a dev blog [here](https://myeve.eve-online.com/devblog.asp?a=blog&bid=474 "Titan Nerf")). This meant that:
 
 - Titans could no longer fire doomsdays with impunity.
 - Titans could no longer fire doomsdays remotely without even being on the battlefield.
 - Titans were no longer immune to being caught in an interdictor bubble which stops warps/jumps.
 - Titans could not use their jumpdrive for 10 minutes after firing a doomsday.
 
-This basically made Titans killable. As shown in [this YouTube video](http://www.youtube.com/watch?v=LRlrFudaEs8).
+This basically made Titans killable. As shown in [this YouTube video](https://www.youtube.com/watch?v=LRlrFudaEs8).
 
 Then, things seemed to go even better with the introduction of Jump Bridge Arrays.
 

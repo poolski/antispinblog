@@ -10,14 +10,14 @@ slug = "useful-logstash-grok-patterns"
 tags = ["fullwidth", "Grok", "Internet", "Logstash", "Tech", "Tutorials"]
 title = "Useful Logstash GROK patterns"
 +++
-In my [previous post](http://antisp.in/2014/03/getting-started-with-logstash/ "Getting started with Logstash"), I outlined how I manage the collection of logs across our infrastructure at a high level with Logstash and Elasticsearch. I also touched upon viewing and searching through the data with Kibana, a Javascript frontend.
+In my [previous post](https://antisp.in/2014/03/getting-started-with-logstash/ "Getting started with Logstash"), I outlined how I manage the collection of logs across our infrastructure at a high level with Logstash and Elasticsearch. I also touched upon viewing and searching through the data with Kibana, a Javascript frontend.
 
 In this post, I want to cover an important interim step if using the packages in the ElasticSearch repos is unfeasible or if you are running legacy servers that the repos don’t provide packages for.
 
 In order to collect data from our remote machines, we’ll need a copy of *logstash-forwarder* which is a lightweight, stand-alone version of Logstash that only deals with the shipping of logs and comes with a package all of its own.
 #### You’ll need:
 
-- The GO language ([download](http://code.google.com/p/go/downloads))
+- The GO language ([download](https://code.google.com/p/go/downloads))
 - FPM (Fucking Package Manager)
 - Git
 

@@ -12,7 +12,7 @@ title = "Grok patterns in Logstash"
 +++
 
 
-After posting a set of [postfix and sendmail Grok patterns](http://antisp.in/2014/04/useful-logstash-grok-patterns/ "Useful Logstash GROK patterns"), I’ve had a request to explain how to implement Grok patterns in Logstash. So, here we go.
+After posting a set of [postfix and sendmail Grok patterns](https://antisp.in/2014/04/useful-logstash-grok-patterns/ "Useful Logstash GROK patterns"), I’ve had a request to explain how to implement Grok patterns in Logstash. So, here we go.
 
 I’m going to make some assumptions about your installation of Logstash – on a typical Debian install, assuming you installed from the Elasticsearch PPA (hint: you should be doing this), your Logstash configs will be in /etc/logstash/conf.d/ or something of the sort.
 
@@ -26,7 +26,7 @@ filter { grok { patterns_dir => "/etc/logstash/patterns" pattern => "%{SENDMAIL}
 
 The named_captures_only will tell Grok to only capture fields that are named in your Grok pattern and discard the cruft – useful when you want to extract a few key metrics from an event.
 
-If you look at the [Sendmail grok file I posted here](http://antisp.in/2014/04/useful-logstash-grok-patterns/ "Useful Logstash GROK patterns"), you can see how it’s being referenced above. This method is deprecated, but it still works for me, so that’s what I’m sticking with.
+If you look at the [Sendmail grok file I posted here](https://antisp.in/2014/04/useful-logstash-grok-patterns/ "Useful Logstash GROK patterns"), you can see how it’s being referenced above. This method is deprecated, but it still works for me, so that’s what I’m sticking with.
 
 You can get creative and only invoke Grok for certain types of events by using an
 

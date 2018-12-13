@@ -21,7 +21,7 @@ As soon as I installed it, I noticed that my battery life shot up by about 100%.
 Next, I went and installed a whole bunch of other mods which I’ll list below to further customise my UI. My favourite thing, though was this:
 
 <table border="0" cellpadding="0" cellspacing="0" class=" table table-hover" width="100%"><tbody><tr><td><figure class="thumbnail wp-caption aligncenter" id="attachment_995" style="width: 250px">
-![](http://antisp.in/blog/wp-content/uploads/2011/06/screenshot_5.png)
+![](https://antisp.in/blog/wp-content/uploads/2011/06/screenshot_5.png)
 <figcaption class="caption wp-caption-text">My main home screen!</figcaption></figure></td></tr></tbody></table>The text took me forever to get right, but the minimalistic text widgets are purely awesome!
 
 Right. Now for lists:

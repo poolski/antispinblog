@@ -68,7 +68,7 @@ The Caddyfile can go in `/etc/caddy/Caddyfile` which is what we'll be using in t
 
 ```js
 https://www.yoursite.com {
-    proxy / http://127.0.0.1:2368 {
+    proxy / https://127.0.0.1:2368 {
 	    header_upstream Host {host}
         header_upstream X-Real-IP {remote}
 	    header_upstream X-Forwarded-For {remote}

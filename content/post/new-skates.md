@@ -22,7 +22,7 @@ However, about this time, I started to regularly hang out in Hyde Park with some
 
 After a couple of abortive attempts to do slalom on my fitness skates, I found that while they were stable, they weren’t agile enough as the wheelbase was too long. I found this out by falling on my ass a couple of times. And then I got thinking: it’s my birthday soon so I’m going to treat myself to a set of freestyle skates.
 
-A few family members have been kind enough to donate to the cause and yesterday I went to [Clue Blue Room](http://www.clubblueroom.com) to have a chat with them as a friend had pointed me at their ex-rental sale – £180 skates on sale for £80. Checking our their website, however, I spotted a pair of SEBA Igor Pro 2014 skates that I’d been eyeing for a while on sale at a huge discount, so “sod it” I thought.
+A few family members have been kind enough to donate to the cause and yesterday I went to [Clue Blue Room](https://www.clubblueroom.com) to have a chat with them as a friend had pointed me at their ex-rental sale – £180 skates on sale for £80. Checking our their website, however, I spotted a pair of SEBA Igor Pro 2014 skates that I’d been eyeing for a while on sale at a huge discount, so “sod it” I thought.
 
 Here they are. Purple laces were mandatory, obviously.
 

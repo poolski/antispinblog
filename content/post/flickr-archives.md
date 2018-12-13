@@ -11,10 +11,10 @@ title = "Flickr Archives"
 +++
 
 
-Digging through my [Flick<span style="color: #ff00ff;">r</span>](http://flickr.com/photos/poolski) archives, I came across this! I’d forgotten I shot this and how impressed I was with it!
+Digging through my [Flick<span style="color: #ff00ff;">r</span>](https://flickr.com/photos/poolski) archives, I came across this! I’d forgotten I shot this and how impressed I was with it!
 
 <figure class="thumbnail wp-caption aligncenter" style="width: 510px">
-![](http://www.flickr.com/photos/poolski/3050993722/)
+![](https://www.flickr.com/photos/poolski/3050993722/)
 <figcaption class="caption wp-caption-text">Shot this with my trusty 30mm f/1.4 lens on the Underground</figcaption></figure>Rather nifty!
 
 

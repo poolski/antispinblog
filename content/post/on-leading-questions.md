@@ -12,7 +12,7 @@ title = "On leading questions"
 +++
 
 
-I’ve been meaning to write about this for some time after I finished my [accidental essay](http://antisp.in/blog/2012/10/thinking-about-polyamory/ "Thinking about Polyamory?") on polyamory thinking as soon after I completed that, I was walking along and more thoughts sprang to mind.
+I’ve been meaning to write about this for some time after I finished my [accidental essay](https://antisp.in/blog/2012/10/thinking-about-polyamory/ "Thinking about Polyamory?") on polyamory thinking as soon after I completed that, I was walking along and more thoughts sprang to mind.
 
 Anyhow, today’s topic of choice is the use of language in effective communication in a relationship context. God, that was a mouthful. It’s simpler than it sounds though.
 
@@ -74,6 +74,6 @@ Remember that this really does go both ways, so you need to be just as clear wit
 
 ***** This works for me, YMMV.
 
-Credit: Cover photo by [CMMahon](http://www.flickr.com/photos/cmahon/7439959012/)
+Credit: Cover photo by [CMMahon](https://www.flickr.com/photos/cmahon/7439959012/)
 
 

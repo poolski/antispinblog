@@ -18,6 +18,6 @@ However, dictating what other people, especially any potential kids of mine, do 
 
 Read this post.
 
-[Dear Daughter: I Hope You Have Some Fucking Awesome Sex.](http://www.theferrett.com/ferrettworks/2013/08/dear-daughter-i-hope-you-have-some-fucking-awesome-sex/).
+[Dear Daughter: I Hope You Have Some Fucking Awesome Sex.](https://www.theferrett.com/ferrettworks/2013/08/dear-daughter-i-hope-you-have-some-fucking-awesome-sex/).
 
 

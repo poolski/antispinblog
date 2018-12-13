@@ -15,5 +15,5 @@ title = "Macros In The Garden"
 I was at a friend’s house over the weekend and since my new EOS 60D arrived last week, I spent a large chunk of time playing with it and getting to grips with its various quirks and foibles. There aren’t many, thankfully. I also wound up shooting lots of macro shots of bits of plants and I must say, I’m very impressed with the performance overall!
 
 <figure class="thumbnail wp-caption aligncenter" id="attachment_1037" style="width: 610px">
-![](http://antisp.in/blog/wp-content/uploads/2011/07/5928194462_e26f384191_b.jpg)
+![](https://antisp.in/blog/wp-content/uploads/2011/07/5928194462_e26f384191_b.jpg)
 <figcaption class="caption wp-caption-text">More Dried Leaves</figcaption></figure>

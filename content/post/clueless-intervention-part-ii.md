@@ -14,7 +14,7 @@ title = "Clueless Intervention Part II"
 
 ![EVE Online Logo](https://blog.mortworks.net/wp-content/uploads/2007/08/eve_logo1.jpg)
 
-Picking up where I left off in the [previous blog post](http://blog.mortworks.net/2007/09/06/clueless-intervention/), I will now try to explain why I said that CCP is stupid for meddling in the mechanics of the game without first gaining a more thorough understanding of the effects of their changes.
+Picking up where I left off in the [previous blog post](https://blog.mortworks.net/2007/09/06/clueless-intervention/), I will now try to explain why I said that CCP is stupid for meddling in the mechanics of the game without first gaining a more thorough understanding of the effects of their changes.
 
 Before I go into the hows and wherefores of CCP’s perceived stupidity, I would like to explain the unique structures that exist in EVE’s economic sandbox.
 
@@ -40,7 +40,7 @@ As you can see, this particular hub sprang up much like some towns in England be
 
 In this article, then, when I refer to the “Empire Price” of an item, I am referring to the price in Jita.
 
-0.0 or lowsec is lawless space where anything goes and the laws are whatever the occupying alliance makes them. Think of the Wild West in Gold Rush times. Only permanent. <acronym title="Not Blue Shoot It"></acronym>Territorial shifts, changes in the balance of power and influence are commonplace. Markets in 0.0 tend to be more spread out between stations and outposts but are also far more specialised. Whereas in Jita, virtually the entire range of products in the EVE universe is available for trade, whether you are looking for a [Cruise Missile Launcher](http://www.eve-online.com/itemdatabase/EN/shipequipment/turretsbays/missilelaunchers/cruiselaunchers/19739.asp) or [Long-Limb Roes](http://www.eve-online.com/itemdatabase/EN/tradegoods/consumerproducts/3777.asp), chances are it will be in Jita 4-4 (station). In a 0.0 market, the commodities available are restricted to what is commonly used, such as battleship hulls, heavy weaponry, electronic warfare modules and other warlike equipment.
+0.0 or lowsec is lawless space where anything goes and the laws are whatever the occupying alliance makes them. Think of the Wild West in Gold Rush times. Only permanent. <acronym title="Not Blue Shoot It"></acronym>Territorial shifts, changes in the balance of power and influence are commonplace. Markets in 0.0 tend to be more spread out between stations and outposts but are also far more specialised. Whereas in Jita, virtually the entire range of products in the EVE universe is available for trade, whether you are looking for a [Cruise Missile Launcher](https://www.eve-online.com/itemdatabase/EN/shipequipment/turretsbays/missilelaunchers/cruiselaunchers/19739.asp) or [Long-Limb Roes](https://www.eve-online.com/itemdatabase/EN/tradegoods/consumerproducts/3777.asp), chances are it will be in Jita 4-4 (station). In a 0.0 market, the commodities available are restricted to what is commonly used, such as battleship hulls, heavy weaponry, electronic warfare modules and other warlike equipment.
 
 ![](https://ap-content.storage.googleapis.com/2007/09/320px-Simple_supply_and_demand1.png)Prices in 0.0 markets can also be significantly higher than Jita prices due to scarcity and the costs of producing them in 0.0 space.  
  Basic supply -v- demand economics. As supply decreases, prices rise.
@@ -63,7 +63,7 @@ Let me elaborate. As I mentioned, there are 2 distinct but overlapping market sp
 
 ### The likely basis for CCP’s decision
 
-[The first Economic Dev Blog](http://myeve.eve-online.com/devblog.asp?a=blog&bid=498)
+[The first Economic Dev Blog](https://myeve.eve-online.com/devblog.asp?a=blog&bid=498)
 
 I won’t cross-post this gargantuan essay in here, merely use snippets of it to illustrate points, however feel free to read it.
 

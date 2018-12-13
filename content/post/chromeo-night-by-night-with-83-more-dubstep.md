@@ -18,6 +18,6 @@ My friend Chris Baker was rocking some kickass tunes at the circus jam last nigh
 
 He’s also DJing at the Imaginarium party in a few weeks – I’ll fish out the URL once I find the flyer. Well worth checking out. Do it!
 
-*update: found the URL: [http://www.skiddle.com/whats-on/London/Union./Imaginarium/11532574/?skcampaign=fbwall](http://www.skiddle.com/whats-on/London/Union./Imaginarium/11532574/?skcampaign=fbwall)*
+*update: found the URL: [https://www.skiddle.com/whats-on/London/Union./Imaginarium/11532574/?skcampaign=fbwall](https://www.skiddle.com/whats-on/London/Union./Imaginarium/11532574/?skcampaign=fbwall)*
 
 

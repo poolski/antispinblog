@@ -17,7 +17,7 @@ I got tired of trawling through forums to find these answers so I collated them 
 My work laptop is a Lenovo ThinkPad x121e. It’s stupidly energy-efficient, quiet and most importantly built like a brick. When I took the bottom cover off to upgrade the RAM to 8GB, I was struck by the build quality and was gratified to see the area around the hard disk and other crucial sections of the mainboard was reinforced with extra structural metalwork.
 
 <figure class="thumbnail wp-caption aligncenter" id="attachment_1594" style="width: 498px">
-![](http://antisp.in/blog/wp-content/uploads/2012/05/IMG_20120524_1047161.jpg)
+![](https://antisp.in/blog/wp-content/uploads/2012/05/IMG_20120524_1047161.jpg)
 <figcaption class="caption wp-caption-text">It feels like it’s designed to be used out in the Real World.</figcaption></figure>I ripped out the 256GB magnetic disk and stuck in a Samsung 64GB SSD on which I installed Ubuntu 12.04. With a Core i3, 8GB of RAM and a SSD, this thing *flies. *
 
 **However, I soon ran headlong into a [known issue](https://bugs.launchpad.net/ubuntu/+source/linux/+bug/812866): the builtin 3G mobile internet card and Bluetooth connector arbitrarily become hard blocked if you hibernate the machine or if the battery runs out of charge.

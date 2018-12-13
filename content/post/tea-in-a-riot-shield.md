@@ -17,5 +17,5 @@ Despite all the somewhat crazy stuff happening in London, it’s awesome to see 
  
 
 <figure class="thumbnail wp-caption aligncenter" id="attachment_1116" style="width: 610px">
-![](http://antisp.in/blog/photography/tea-in-a-riot-shield/attachment/0038-982011-camden-town-london/)
+![](https://antisp.in/blog/photography/tea-in-a-riot-shield/attachment/0038-982011-camden-town-london/)
 <figcaption class="caption wp-caption-text">© Licensed to London News Pictures. 07/08/2011. London, UK. As looters and rioters smashed up shops, looted and fought with police in Camden Town, Philippa Morgan-Walker, 25 and her husband, Jonny Walker, 31, made tea for the police who were protecting their street. Some of the officers had been on duty for more than 30 hours. Photo credit : Joel Goodman/LNP</figcaption></figure>

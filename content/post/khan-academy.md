@@ -11,7 +11,7 @@ title = "Khan Academy"
 +++
 
 
-[http://knanacademy.org/](http://knanacademy.org/)
+[https://knanacademy.org/](https://knanacademy.org/)
 
 This is awesome. Check it out!
 

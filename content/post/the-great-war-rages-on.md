@@ -11,7 +11,7 @@ title = "The Great War rages on"
 +++
 
 
-![](http://www.eve-online.com/)
+![](https://www.eve-online.com/)
 
 It’s been a while since I’ve done an EVE-related post, largely down to the fact that I have been doing university work and as such have not had chance to play EVE to any greater extent than “Log in, change skill, log out”
 

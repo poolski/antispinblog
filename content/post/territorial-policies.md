@@ -11,7 +11,7 @@ title = "Territorial Policies"
 +++
 
 
-![](http://eve-online.com/)
+![](https://eve-online.com/)
 
 Currently the Red Swarm Federation and associated allied entities controls about 1/3rd of 0.0 (at least in terms of space that’s worth anything).
 

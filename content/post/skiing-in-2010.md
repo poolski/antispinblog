@@ -18,6 +18,6 @@ A friend of mine asked me for a particular photo that I shot while we were in Au
 
 Brings back awesome memories, that’s for sure.
 
-If you want to see more of my work, head on over to [my flickr](http://flickr.com/photos/poolski "My Flickr") page!
+If you want to see more of my work, head on over to [my flickr](https://flickr.com/photos/poolski "My Flickr") page!
 
 

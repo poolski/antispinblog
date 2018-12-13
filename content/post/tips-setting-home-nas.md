@@ -16,11 +16,11 @@ After a conversation with a friend about the best way to go about setting up a N
 
 ### Specs
 
-If you’re going to be building a homebrew NAS box to use as your media/file storage, streaming server and porn dump, you’ll need to think about what sort of kit you need. I’m going to be assuming an [OpenIndiana-based setup](http://antisp.in/2012/05/hp-microserver-zfs-win/ "HP MicroServer + ZFS = Win") similar to what I currently run.
+If you’re going to be building a homebrew NAS box to use as your media/file storage, streaming server and porn dump, you’ll need to think about what sort of kit you need. I’m going to be assuming an [OpenIndiana-based setup](https://antisp.in/2012/05/hp-microserver-zfs-win/ "HP MicroServer + ZFS = Win") similar to what I currently run.
 
 #### Easymode
 
-Buy a [HP ProLiant Microserver Gen8](http://www.ebuyer.com/517761-hp-proliant-gen8-g2020t-microserver-712318-421). The Gen7 are also decent bits of kit, but these units support more memory, have a faster CPU and are better-built and generally More Better.
+Buy a [HP ProLiant Microserver Gen8](https://www.ebuyer.com/517761-hp-proliant-gen8-g2020t-microserver-712318-421). The Gen7 are also decent bits of kit, but these units support more memory, have a faster CPU and are better-built and generally More Better.
 
 #### DIY
 
@@ -33,7 +33,7 @@ You need a couple things:
 
 ### Software
 
-I personally run OpenIndiana on my MicroServer and it’s been rock-solid for years now. I’d recommend it. You can get it [here](http://openindiana.org/). Don’t waste a whole disk for installing it on, however, especially if you have a limited number of disks you can use.
+I personally run OpenIndiana on my MicroServer and it’s been rock-solid for years now. I’d recommend it. You can get it [here](https://openindiana.org/). Don’t waste a whole disk for installing it on, however, especially if you have a limited number of disks you can use.
 
 The beauty of ZFS-based systems is that the OS is actually trivial. You care about your *data*, primarily. If the OS dies, you can reinstall, import your pool and you’re back up. With that in mind, I would install the OS on a USB stick or SDCard on your motherboard, if it supports it. This way you have the maximum number of available disks to use for storage.
 

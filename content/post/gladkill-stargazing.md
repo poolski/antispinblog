@@ -12,7 +12,7 @@ title = "Gladkill - Stargazing"
 +++
 
 
-Some more delightful downtempo [chillstep tunes](http://antisp.in/blog/music/chillstep/ "Chillstep") came my way yesterday and of all of them, I think I like this one the most. It’s a lovely take on the stereotypical [dubstep](http://antisp.in/blog/music/dcarl/ "DCarls") structure, but without the driving melodies and earth-shattering basslines. Instead, it’s light and airy with a hint of dark, dirty bass. Sublime!
+Some more delightful downtempo [chillstep tunes](https://antisp.in/blog/music/chillstep/ "Chillstep") came my way yesterday and of all of them, I think I like this one the most. It’s a lovely take on the stereotypical [dubstep](https://antisp.in/blog/music/dcarl/ "DCarls") structure, but without the driving melodies and earth-shattering basslines. Instead, it’s light and airy with a hint of dark, dirty bass. Sublime!
 
 httpv://youtu.be/T_z7usf_-KM
 

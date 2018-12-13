@@ -16,7 +16,7 @@ Right.
 
 Now that I actually have time to post a *real* entry about SL, here goes.
 
-To begin with, I wasn’t going to go to Southern Lights as I was quite simply too poor to afford a ticket. Thankfully, the gorgeous [Safire](http://www.safiredance.com/) stepped in and offered me one of hers in exchange for hugs on demand. A fair trade. The festival kicked off on Friday the 11th, but I was booked that day to celebrate a friend finishing exams.
+To begin with, I wasn’t going to go to Southern Lights as I was quite simply too poor to afford a ticket. Thankfully, the gorgeous [Safire](https://www.safiredance.com/) stepped in and offered me one of hers in exchange for hugs on demand. A fair trade. The festival kicked off on Friday the 11th, but I was booked that day to celebrate a friend finishing exams.
 
 <figure class="thumbnail wp-caption alignleft" id="attachment_109" style="width: 310px">
 ![](https://ap-content.storage.googleapis.com/2010/06/DSC01779WM1.jpg)
@@ -25,7 +25,7 @@ To begin with, I wasn’t going to go to Southern Lights as I was quite simply t
 When I eventually made it to Southern Lights, the party was in full swing and I wearily stumbled up the hillside to a vacant spot on the ground to pitch my tent. No tent-pitching was done for about 20 minutes as I simply collapsed on the grass and lay there, unable to move for exhaustion.
 
 <figure class="thumbnail wp-caption alignright" id="attachment_110" style="width: 210px">
-![](http://www.facebook.com/#!/group.php?gid=40212351707&ref=ts "Spinning @")
+![](https://www.facebook.com/#!/group.php?gid=40212351707&ref=ts "Spinning @")
  were around as well, which was good.
 
 The events of the following few days are too numerous to list in prose so I will make it easy

@@ -16,7 +16,7 @@ I’ve been reading about, and harshly ending the dreams of, small 0.0 alliances
 
 They claimed to possess power far greater than they actually did and inflated their egos far beyond what is reasonable, acceptable and, frankly, healthy.
 
-Case in point: [Triumvirate](http://blog.mortworks.net/wp-admin/www.eve-triumvirate.com "Triumvirate") – a 0.0 alliance which has, admittedly existed in the North for a good while, since the D2 wars. While they have been around for a while, they seem not to have learned the basic rule of survival in 0.0
+Case in point: [Triumvirate](https://blog.mortworks.net/wp-admin/www.eve-triumvirate.com "Triumvirate") – a 0.0 alliance which has, admittedly existed in the North for a good while, since the D2 wars. While they have been around for a while, they seem not to have learned the basic rule of survival in 0.0
 
 > If you are a starting up in a hostile environment, don’t draw unnecessary attention to yourself.
 

@@ -13,7 +13,7 @@ title = "Policing By Consent"
 
 I’ve had this conversation with a few people now and the overwhelming consensus is towards agreement.
 
-In the UK, the police operate on the basis of *[policing by consent](http://qualitysolicitors.wordpress.com/2011/08/09/why-im-proud-to-be-british-policing-by-consent-and-the-rule-of-law/ "Why I’m proud to be British: policing by consent and the rule of law").* That doesn’t mean that the police can only arrest you if you *agree* to your arrest – that would be ludicrous. It means that the police force’s effectiveness and even its existence is dictated by the people’s agreement that they represent the rule of law.
+In the UK, the police operate on the basis of *[policing by consent](https://qualitysolicitors.wordpress.com/2011/08/09/why-im-proud-to-be-british-policing-by-consent-and-the-rule-of-law/ "Why I’m proud to be British: policing by consent and the rule of law").* That doesn’t mean that the police can only arrest you if you *agree* to your arrest – that would be ludicrous. It means that the police force’s effectiveness and even its existence is dictated by the people’s agreement that they represent the rule of law.
 
 Each time someone trots out the old “The police need to be given greater powers to combat crime” and “they should use rubber bullets and water canons” clichés, I’m filled with the desire to bury my face in my palms. While it’s easy to say that the police should deal with the protesters in a much harsher way, the reality of the situation is that the IPCC and intense scrutiny from the public prevent it. And I think it’s a good thing.
 

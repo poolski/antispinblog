@@ -12,9 +12,9 @@ title = "A Crisis of Choice"
 +++
 
 
-A couple of days ago, I was reading [Mittani’s article on TenTonHammer](http://www.tentonhammer.com/eve/spymaster/55) about the Glorious Internet Spaceship Game, EVE Online. It was concerned with the concept of a crisis of choice as faced by people in a position of limitless possibilities.
+A couple of days ago, I was reading [Mittani’s article on TenTonHammer](https://www.tentonhammer.com/eve/spymaster/55) about the Glorious Internet Spaceship Game, EVE Online. It was concerned with the concept of a crisis of choice as faced by people in a position of limitless possibilities.
 
-Essentially, when faced with limitless choices, people are unable to choose anything or choose wisely because the opportunity cost of choosing a path is not choosing any of the others. This manifests itself in the Real World most often as lack of direction or indecision. ![](http://antisp.in/blog/wp-content/uploads/2010/12/confused.jpg)
+Essentially, when faced with limitless choices, people are unable to choose anything or choose wisely because the opportunity cost of choosing a path is not choosing any of the others. This manifests itself in the Real World most often as lack of direction or indecision. ![](https://antisp.in/blog/wp-content/uploads/2010/12/confused.jpg)
 
 This puzzles me.
 

@@ -25,7 +25,7 @@ Well, when you know a bit of about how browsers work, it’s not quite that simp
 
 Let’s simplify.
 
-You just connected your computer to [www.google.com](http://www.google.com/).
+You just connected your computer to [www.google.com](https://www.google.com/).
 
 Simple, isn’t it?
 
@@ -37,7 +37,7 @@ Those are actually such incredibly complex technologies that they’ll make any 
 
 Let’s simplify.
 
-You just typed [www.google.com](http://www.google.com/) in the location bar of your browser.
+You just typed [www.google.com](https://www.google.com/) in the location bar of your browser.
 
 Simple, isn’t it?
 

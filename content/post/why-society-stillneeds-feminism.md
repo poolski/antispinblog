@@ -12,9 +12,9 @@ title = "Why Society Still Needs Feminism"
 +++
 
 
-Reposted from [Joe Gordon-Levitt](http://hitrecordjoe.tumblr.com/post/51568388181/why-society-still-needs-feminism-because-to-men) – a poignant and stirring read.
+Reposted from [Joe Gordon-Levitt](https://hitrecordjoe.tumblr.com/post/51568388181/why-society-still-needs-feminism-because-to-men) – a poignant and stirring read.
 
-Cover photo by [Moyan Brenn](http://www.flickr.com/photos/aigle_dore/4571751288/) – CC
+Cover photo by [Moyan Brenn](https://www.flickr.com/photos/aigle_dore/4571751288/) – CC
 
 > #### Why Society Still Needs Feminism
 > 

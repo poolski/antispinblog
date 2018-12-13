@@ -15,7 +15,7 @@ A ferrofluid is a made up of nanoscale ferrous particles suspended in a carrier 
 
 Here’s an art installation!
 
-http://www.youtube.com/watch?v=me5Zzm2TXh4
+https://www.youtube.com/watch?v=me5Zzm2TXh4
 
 I *like* science!
 

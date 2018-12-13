@@ -14,6 +14,6 @@ title = "John \"Halcyon\" Styn on Gratitude at TEDx"
 
 I don’t really have a preamble to this… Just watch it. It’s badass.
 
-http://www.youtube.com/watch?v=hkLM-IlwwPk
+https://www.youtube.com/watch?v=hkLM-IlwwPk
 
 

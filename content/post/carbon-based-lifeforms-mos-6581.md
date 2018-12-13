@@ -12,10 +12,10 @@ title = "Carbon Based Lifeforms - MOS 6581"
 +++
 
 
-I came across this incredible piece of audio porn while watching one of [Rastaxel’s mind-bending poi videos](http://youtu.be/9Wm1lYymBHU "Rastaxel - Rhum Sessions"). The man knows how to pick awesome backing tracks to go with amazing poi moves.
+I came across this incredible piece of audio porn while watching one of [Rastaxel’s mind-bending poi videos](https://youtu.be/9Wm1lYymBHU "Rastaxel - Rhum Sessions"). The man knows how to pick awesome backing tracks to go with amazing poi moves.
 
 This track, however, makes me feel like I’m floating if I close my eyes and would be perfect for winding down the body while the mind revels in the myriad layered soundscapes.
 
-http://youtu.be/7kL91mMgGpM?hd=1
+https://youtu.be/7kL91mMgGpM?hd=1
 
 

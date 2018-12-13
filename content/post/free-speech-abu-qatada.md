@@ -14,7 +14,7 @@ title = "Free Speech & Abu Qatada"
 Looking cursorially at the newspaper headlines about Abu Qatada, the ‘hate preacher’ who was enflaming Muslims against the western Infidels, I’m struck with an interesting thought.
 
 <figure class="thumbnail wp-caption alignleft" style="width: 317px">
-![](http://www.flickr.com/photos/63465779@N07/6362045887/)
+![](https://www.flickr.com/photos/63465779@N07/6362045887/)
 <figcaption class="caption wp-caption-text">Free Speech by preprint</figcaption></figure>People have, predictably, made the knee-jerk response that ‘People should not be allowed to preach hatred like that’ and comments of that ilk. What fascinates me is how, yet again, most folks don’t think it through.
 
 Yes, the man is unquestionably a shady character and having him peddle his ideologies to the impressionable can be seen as a Bad Thing. On the other hand, the canned response points to a deeper problem within society at large: the steady decline of personal responsiblity.

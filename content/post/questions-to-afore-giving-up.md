@@ -10,7 +10,7 @@ title = "Questions to ask before giving up"
 +++
 
 
-This has been drifting in and out of my various feeds over the past few months and I keep losing it, so here’s a nice concrete link to what is a very valuable self-care resource. Original here: [http://eponis.tumblr.com/post/113798088670/everything-is-awful-and-im-not-okay-questions-to](http://eponis.tumblr.com/post/113798088670/everything-is-awful-and-im-not-okay-questions-to)
+This has been drifting in and out of my various feeds over the past few months and I keep losing it, so here’s a nice concrete link to what is a very valuable self-care resource. Original here: [https://eponis.tumblr.com/post/113798088670/everything-is-awful-and-im-not-okay-questions-to](https://eponis.tumblr.com/post/113798088670/everything-is-awful-and-im-not-okay-questions-to)
 
 - - - - - -
 

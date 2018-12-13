@@ -18,6 +18,6 @@ tl;dr: Don’t
 > “I looked at the flask with that awful sinking feeling you get when  
 >  you realise you have created something which is inevitably going to explode at some point in the future, and there’s nothing you can do about it.”
 
-Source: *[minusbat: Under pressure](http://minusbat.livejournal.com/180556.html)*
+Source: *[minusbat: Under pressure](https://minusbat.livejournal.com/180556.html)*
 
 

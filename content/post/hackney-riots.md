@@ -14,7 +14,7 @@ title = "Hackney Riots"
 
 So North London exploded in rioting and fires and all sorts and this has been going on for the best part of 3 days now. While there are folks out there better qualified than I to report on the whys and wherefores of the situation, the one thing that’s struck me when watching the news coverage of what’s going on is the wording and general feel of the reporting. To me, it feels like the media is trying as hard as it can to distance those carrying out the looting, rioting, etc from the populace. As though they aren’t really a part of our society and are somehow suddenly alien and incomprehensible.
 
-![](http://antisp.in/blog/wp-content/uploads/2011/08/7acf45524ad1bd0d770f60006f9e.jpg)
+![](https://antisp.in/blog/wp-content/uploads/2011/08/7acf45524ad1bd0d770f60006f9e.jpg)
 
 This worries me.
 

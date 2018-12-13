@@ -18,7 +18,7 @@ Clearly, something needed to be done! Lady-scientists are important to humanity!
 
 Anyway, the clever bods at the PR department released this gem.
 
-http://youtu.be/g032MPrSjFA
+https://youtu.be/g032MPrSjFA
 
 Quoting the Commission’s brief:
 

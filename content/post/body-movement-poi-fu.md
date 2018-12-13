@@ -23,10 +23,10 @@ It most often manifests in the tendency to plant your feet close together and pr
 This is very true – you can’t consciously focus on two things at once, especially if you’re like me and are male.  This leads a lot of spinners to utterly neglect their bodies until a much later stage in the development of their skill! Personally, I found myself being very static in my spinning when I started out. Then about 6 months into my spinning when I had the joy of going to one of Nick Woolsey’s retreats in Bali where we learned all about poi-fu and body movement and stepping and so on!
 
 <div class="wp-caption alignright" style="width: 360px;">
-![](http://www.flickr.com/photos/tzupi/4150819613/)
+![](https://www.flickr.com/photos/tzupi/4150819613/)
 
 
-[Antispin](http://www.flickr.com/photos/tzupi/4150819613/) by [Tzupi](http://www.flickr.com/photos/tzupi/)
+[Antispin](https://www.flickr.com/photos/tzupi/4150819613/) by [Tzupi](https://www.flickr.com/photos/tzupi/)
 
 </div>However, the body is much more than just a device to accentuate the appearance of your chosen skilltoy, as it were – it is much more than that. For a lot of beginners, it is all about the toy. A lot of poi spinners especially are guided **by **their poi, instead of guiding their poi into place.
 
@@ -54,7 +54,7 @@ I mean it. Really. You shouldn’t take this too seriously. Skill practice will 
 
 That’s it for now – I’ll translate this into video form sometime soon and post it!
 
-###### [Featured image by brainflakes](http://www.flickr.com/photos/brainflakes/3008467737/)
+###### [Featured image by brainflakes](https://www.flickr.com/photos/brainflakes/3008467737/)
 
  
 

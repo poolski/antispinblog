@@ -15,5 +15,5 @@ title = "Springtime Photography"
 I dusted off my camera and took it outside over the weekend while Spring was doing its utmost to make itself felt in the air and got these out of 10 minutes’ worth of snapping! Nature is pretty amazing at times!
 
 <figure class="thumbnail wp-caption aligncenter" id="attachment_1439" style="width: 558px">
-![](http://antisp.in/blog/wp-content/uploads/2012/02/6790265008_706d6f2450_b.jpg)
+![](https://antisp.in/blog/wp-content/uploads/2012/02/6790265008_706d6f2450_b.jpg)
 <figcaption class="caption wp-caption-text">It could be a tulip or for all I know, a spaceship!</figcaption></figure>

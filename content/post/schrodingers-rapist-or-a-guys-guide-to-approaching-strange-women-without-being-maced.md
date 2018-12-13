@@ -12,7 +12,7 @@ title = "Schrödinger’s Rapist: or a guy’s guide to approaching strange wome
 +++
 
 
-<address>Cross-posted from here: [http://tinyurl.com/ya2fd8v](http://tinyurl.com/ya2fd8v) and well worth a read. </address>Gentlemen. Thank you for reading.
+<address>Cross-posted from here: [https://tinyurl.com/ya2fd8v](https://tinyurl.com/ya2fd8v) and well worth a read. </address>Gentlemen. Thank you for reading.
 
 Let me start out by assuring you that I understand you are a good sort of person. You are kind to children and animals. You respect the elderly. You donate to charity. You tell jokes without laughing at your own punchlines. You respect women. You like women. In fact, you would really like to have a mutually respectful and loving sexual relationship with a woman. Unfortunately, you don’t yet know that woman—she isn’t working with you, nor have you been introduced through mutual friends or drawn to the same activities. So you must look further afield to encounter her.
 

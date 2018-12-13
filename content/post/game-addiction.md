@@ -12,15 +12,15 @@ title = "Game Addiction"
 +++
 
 
-I’ve been following the escapades (you’ll see the pun momentarily) of ExtraCreditz for some time now. They’ve been posting hugely [informative videos](http://youtu.be/oFywW99Uvwc) about all kinds of [aspects](http://youtu.be/rN0qRKjfX3s) of gaming that [aren’t often covered](http://youtu.be/R8ZVZRsy8N8)by mainstream gaming media.
+I’ve been following the escapades (you’ll see the pun momentarily) of ExtraCreditz for some time now. They’ve been posting hugely [informative videos](https://youtu.be/oFywW99Uvwc) about all kinds of [aspects](https://youtu.be/rN0qRKjfX3s) of gaming that [aren’t often covered](https://youtu.be/R8ZVZRsy8N8)by mainstream gaming media.
 
 Unfortunately, The Escapist decided they’d screw them over after Alison, their animator injured her shoulder.
 
 <figure class="thumbnail wp-caption alignright" id="attachment_1181" style="width: 294px">
-![](https://antisp.in/blog/wp-content/uploads/2011/10/screenshot10.png "fundraiser")<figcaption class="caption wp-caption-text">$103,814. People REALLY like ExtraCreditz</figcaption></figure>There was a [fundraiser to help cover her surgery](http://www.rockethub.com/projects/2165-extra-credits)
+![](https://antisp.in/blog/wp-content/uploads/2011/10/screenshot10.png "fundraiser")<figcaption class="caption wp-caption-text">$103,814. People REALLY like ExtraCreditz</figcaption></figure>There was a [fundraiser to help cover her surgery](https://www.rockethub.com/projects/2165-extra-credits)
 as the insurance company – something that terrifies me about the USA – said they wouldn’t pay because it was a ‘pre-existing condition’. The response from the public was overwhelming.
 
-After they got the money, The [Escapist felt entitled](http://www.joystickdivision.com/2011/08/extra_credits_leaves_the_escap.php) to 75% of the funds raised to cover Alison’s surgery. So they packed up and moved to Youtube.
+After they got the money, The [Escapist felt entitled](https://www.joystickdivision.com/2011/08/extra_credits_leaves_the_escap.php) to 75% of the funds raised to cover Alison’s surgery. So they packed up and moved to Youtube.
 
 And now, the meat of the matter, as it were.
 

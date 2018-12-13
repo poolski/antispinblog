@@ -38,7 +38,7 @@ Zimbra have come back to us and have said the following:
 
 > <span style="color: #993300;">*Outlook for Mac is not an upgrade feature but an add-on.  Because there is a royalty associated with it, Zimbra chose to not increase prices for the product editions for everyone to accommodate that expense but rather to simply allow those companies who needed it, the ability to purchase it separately.  *</span>
 
-Which is interesting, given that it’s described as a “New Feature” in their 8.5.0 [upgrade guide](http://files.zimbra.com/website/docs/8.5/ZCS_850_NE_ReleaseNotes_UpgradeInst.pdf)
+Which is interesting, given that it’s described as a “New Feature” in their 8.5.0 [upgrade guide](https://files.zimbra.com/website/docs/8.5/ZCS_850_NE_ReleaseNotes_UpgradeInst.pdf)
 
 ###### Update 2
 

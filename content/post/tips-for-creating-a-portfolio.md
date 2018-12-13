@@ -20,7 +20,7 @@ I’ll present my tips in quick points and paragraphs to stop you tearing your e
 <span style="text-decoration: underline;">**Domain Names**</span>
 
 First and foremost, pick a good domain name. Too often have I seen people that have site names that are as long as my forearm.  
-[http://clear-light-pixel-charleston-photography.com/](http://clear-light-pixel-charleston-photography.com/) is not only a bitch to try and spell but it’s also far too long and easily forgotten. I appreciate that a lot of domains are taken, but, when you register a domain, try to pick a name that is easy to pronounce *and spell*.
+[https://clear-light-pixel-charleston-photography.com/](https://clear-light-pixel-charleston-photography.com/) is not only a bitch to try and spell but it’s also far too long and easily forgotten. I appreciate that a lot of domains are taken, but, when you register a domain, try to pick a name that is easy to pronounce *and spell*.
 
 If you have a funny name or surname, then I’d advise against using it as part of your domain for the simple reason that when you mention your site in passing to someone, they want to be able to bash it out on the keyboard without asking you to spell it letter-by-letter.
 
@@ -34,8 +34,8 @@ Don’t use free hosts like Geocities and Google Pages. They’re good for quick
 
 Do your homework and look around for good hosting deals. Personally, I’d recommend a Unix/Linux hosting provider. PHP5 and MySQL are a HUGE plus. Also, look at the bandwidth allowance and overage charges. A good host will offer several tens of gigabytes transfer per month. Note that this is only measured on the outgoing connection (FTPing to your server to upload photos does not count as outgoing).
 
-<div style="margin: 5px 20px 20px;"><div class="smallfont" style="margin-bottom: 2px;">Quote:</div><table border="0" cellpadding="6" cellspacing="0" class=" table table-hover" width="100%"><tbody><tr><td class="alt2" style="border: 1px inset;"><div>Originally Posted by **hazmat**![](http://www.ipowerweb.com/)  
- I have used them since 2002. Good pricing, very little to no downtime.</div></td></tr></tbody></table></div>If you have a bit of spare cash, you can opt for a virtual host on [slicehost.com](http://slicehost.com/). You get a virtual machine which you can load with your choice of Linux distro (CentOS 5, RedHat 5, Ubuntu 8.4/8.10 but to name a few) and do what you please with. You can build it, break it, format it, whatever. It’s your box.
+<div style="margin: 5px 20px 20px;"><div class="smallfont" style="margin-bottom: 2px;">Quote:</div><table border="0" cellpadding="6" cellspacing="0" class=" table table-hover" width="100%"><tbody><tr><td class="alt2" style="border: 1px inset;"><div>Originally Posted by **hazmat**![](https://www.ipowerweb.com/)  
+ I have used them since 2002. Good pricing, very little to no downtime.</div></td></tr></tbody></table></div>If you have a bit of spare cash, you can opt for a virtual host on [slicehost.com](https://slicehost.com/). You get a virtual machine which you can load with your choice of Linux distro (CentOS 5, RedHat 5, Ubuntu 8.4/8.10 but to name a few) and do what you please with. You can build it, break it, format it, whatever. It’s your box.
 
 <span style="text-decoration: underline;">**Design**</span>
 
@@ -53,13 +53,13 @@ Take time to do some research into good design practices. Look at other portfoli
 
 **Flash**
 
-<div style="margin: 5px 20px 20px;"><div class="smallfont" style="margin-bottom: 2px;">Quote:</div><table border="0" cellpadding="6" cellspacing="0" class=" table table-hover" width="100%"><tbody><tr><td class="alt2" style="border: 1px inset;"><div>Originally Posted by **kelleyrie**![](http://digital-photography-school.com/forum/showthread.php?p=364945#post364945)</div><div style="font-style: italic;">can I add one thing: I despise a website that makes me wait for loading like a video game. If I click on your website and the first page I get is loading: xx%….I’m leaving.</div></td></tr></tbody></table></div>Nobody likes to be greeted with a “loading the site you clicked to view right now” progress bar. It’s taken me long enough to load your stupid flash applet without having to wait for your flash applet to load all of *its* assets.
+<div style="margin: 5px 20px 20px;"><div class="smallfont" style="margin-bottom: 2px;">Quote:</div><table border="0" cellpadding="6" cellspacing="0" class=" table table-hover" width="100%"><tbody><tr><td class="alt2" style="border: 1px inset;"><div>Originally Posted by **kelleyrie**![](https://digital-photography-school.com/forum/showthread.php?p=364945#post364945)</div><div style="font-style: italic;">can I add one thing: I despise a website that makes me wait for loading like a video game. If I click on your website and the first page I get is loading: xx%….I’m leaving.</div></td></tr></tbody></table></div>Nobody likes to be greeted with a “loading the site you clicked to view right now” progress bar. It’s taken me long enough to load your stupid flash applet without having to wait for your flash applet to load all of *its* assets.
 
 I know a lot of you have seen hundreds of photo sites that are made entirely in Flash and you’ve thought to yourself *“wow, that would be awesome to have on my portfolio”*.
 
 Unless you are a flash guru or have friends that do a lot of flash development, who are willing to design and code your folio for you, stay clear. Flash is hard to get right and when it’s wrong it’s *really* bad.
 
-Saying that, Flash, when used correctly, is a powerful tool that can enhance your site. [SimpleViewer](http://www.airtightinteractive.com/simpleviewer/) is a great tool for quickly showing off your images without having to code your own flash-based image viewer.
+Saying that, Flash, when used correctly, is a powerful tool that can enhance your site. [SimpleViewer](https://www.airtightinteractive.com/simpleviewer/) is a great tool for quickly showing off your images without having to code your own flash-based image viewer.
 
 **Scripting**
 
@@ -77,7 +77,7 @@ I touched on this already but I would like to reiterate again. It’s come up ti
 
 **Standards**
 
-This is a fairly loose term and a somewhat all-encompassing one at that. I’m using this in the context of CSS and standards-based design. Look at [http://www.csszengarden.com/](http://www.csszengarden.com/) for some truly astounding examples of standards-based design. The whole concept revolves around separating style from content and while you might not be thinking about it as much, it comes in extremely handy if you ever choose to redesign your site.
+This is a fairly loose term and a somewhat all-encompassing one at that. I’m using this in the context of CSS and standards-based design. Look at [https://www.csszengarden.com/](https://www.csszengarden.com/) for some truly astounding examples of standards-based design. The whole concept revolves around separating style from content and while you might not be thinking about it as much, it comes in extremely handy if you ever choose to redesign your site.
 
 If your markup (HTML) is written well, you can simply swap out the CSS and your site will be changed entirely. It is also a great way of keeping your filesizes down to a minimum as a well-thought out HTML page and corresponding CSS file will only be a few KB and will load almost instantly.
 
@@ -95,14 +95,14 @@ They also provide a pre-made interface for creating new posts and keeping track 
 
 Here are a couple of examples where blog engines were used to do a portfolio:
 
-[http://blog.photosforlife.ca/](http://blog.photosforlife.ca/)  
-[http://www.byronbrydgesphotography.blogspot.com/](http://www.byronbrydgesphotography.blogspot.com/)
+[https://blog.photosforlife.ca/](https://blog.photosforlife.ca/)  
+[https://www.byronbrydgesphotography.blogspot.com/](https://www.byronbrydgesphotography.blogspot.com/)
 
 JoanieBC21’s contribution:
 
 <div style="margin: 5px 20px 20px;"><div class="smallfont" style="margin-bottom: 2px;">Quote:</div><table border="0" cellpadding="6" cellspacing="0" class=" table table-hover" width="100%"><tbody><tr><td class="alt2" style="border: 1px inset;">My suggestion is to go with WordPress. It’s the most stable blogging platform around. I’ve been blogging for seven years and have tried them all. Stay away from the free blogs hosted on someone else’s server (Blogger/Blogspot, livejournal, myspace, etc.). You’re earning money with your photography and you should invest in the presentation of your art/creation and use a real blogging platform. *Own your work and maintain it yourself!* Don’t let others dictate how you manage your work. Take control from the start!</td></tr></tbody></table></div>Headrickphoto also suggested a very good point:
 
-<div style="margin: 5px 20px 20px;"><div class="smallfont" style="margin-bottom: 2px;">Quote:</div><table border="0" cellpadding="6" cellspacing="0" class=" table table-hover" width="100%"><tbody><tr><td class="alt2" style="border: 1px inset;"><div>Originally Posted by **headrickphoto**![](http://digital-photography-school.com/forum/showthread.php?p=350028#post350028)</div><div style="font-style: italic;">This list is very complete, however I have one suggestion that I see sites having issues with quite often…For your index page (Home page), DO NOT CLUTTER IT. It must be organized, easy to find whatever needs to be found, and interesting. The user will decide if they are going to stay within the first 5-15 seconds. So make a good impression.
+<div style="margin: 5px 20px 20px;"><div class="smallfont" style="margin-bottom: 2px;">Quote:</div><table border="0" cellpadding="6" cellspacing="0" class=" table table-hover" width="100%"><tbody><tr><td class="alt2" style="border: 1px inset;"><div>Originally Posted by **headrickphoto**![](https://digital-photography-school.com/forum/showthread.php?p=350028#post350028)</div><div style="font-style: italic;">This list is very complete, however I have one suggestion that I see sites having issues with quite often…For your index page (Home page), DO NOT CLUTTER IT. It must be organized, easy to find whatever needs to be found, and interesting. The user will decide if they are going to stay within the first 5-15 seconds. So make a good impression.
 
 Also make the Most important information (not just what you want to highlight) easy to find… This includes contact information, what you do etc.
 

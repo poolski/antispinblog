@@ -17,7 +17,7 @@ Before we go on, I invite you to watch this video. No, really, watch it.
 
 <iframe allowfullscreen="" frameborder="0" height="365" src="https://www.youtube.com/embed/fLJsdqxnZb0?feature=oembed" width="648"></iframe>
 
-Read more about positive psychology [here](http://en.wikipedia.org/wiki/Positive_psychology)
+Read more about positive psychology [here](https://en.wikipedia.org/wiki/Positive_psychology)
 
 ### Breaking up the learning process
 

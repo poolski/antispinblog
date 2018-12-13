@@ -15,5 +15,5 @@ title = "Cherry blossoms"
 Thought I’d try out my phone’s camera and what do you know! It’s pretty good!
 
 <figure class="thumbnail wp-caption aligncenter" id="attachment_2278" style="width: 510px">
-![](http://antisp.in/blog/wp-content/uploads/2013/05/wpid-IMG_20130502_200518.jpg)
+![](https://antisp.in/blog/wp-content/uploads/2013/05/wpid-IMG_20130502_200518.jpg)
 <figcaption class="caption wp-caption-text">Cherry blossoms are awesome!</figcaption></figure>

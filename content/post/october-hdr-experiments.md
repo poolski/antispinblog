@@ -19,6 +19,6 @@ I’ve been meaning to shoot some HDR images for a while now, ever since I got s
 
 ![Quartz HDR](https://antisp.in/blog/wp-content/uploads/2011/10/6291186271_5080278404.jpg "Quartz HDR")
 
-![](http://www.flickr.com/photos/poolski/6291190703/)
+![](https://www.flickr.com/photos/poolski/6291190703/)
 
 

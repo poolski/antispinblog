@@ -12,9 +12,9 @@ title = "M42 Lens Experiments"
 +++
 
 
-![](http://antisp.in/blog/wp-content/uploads/2013/02/IMG_9028.jpg)
+![](https://antisp.in/blog/wp-content/uploads/2013/02/IMG_9028.jpg)
 
-In sorting through my stepdad’s stuff, I came across, amongst other things, a collection of old cameras and lenses (film, naturally), in the M42 mount format. For some reason unknown to me, I hadn’t thought of the possibility of using these lenses with my 60D until a week ago. In hindsight, it was obvious, given that my friend and fellow photographer, [Matt Schultz](http://photoscribbles.tumblr.com/) uses a *SMC Takumar* 50mm f/1.4 lens on his 5D MK-II to great effect.
+In sorting through my stepdad’s stuff, I came across, amongst other things, a collection of old cameras and lenses (film, naturally), in the M42 mount format. For some reason unknown to me, I hadn’t thought of the possibility of using these lenses with my 60D until a week ago. In hindsight, it was obvious, given that my friend and fellow photographer, [Matt Schultz](https://photoscribbles.tumblr.com/) uses a *SMC Takumar* 50mm f/1.4 lens on his 5D MK-II to great effect.
 
 Anyway, yesterday I went on a mission: to find a M42 to EF lens adapter. After West End Cameras tried to charge me £50 for a run-of-the-mill converter (which was pretty well machined, but still, £50?!), I figured there’d be a better place. Eventually, Camera City near the British Museum – a lovely olde camera shoppe furnished me with a converter that is equally well-made (but in silver).
 

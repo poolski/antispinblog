@@ -14,8 +14,8 @@ title = "Chillstep"
 
 I was going to try to write a thoughtful post about the effects of chemical imbalance on the brain but, predictably, I’m unable to marshal my thoughts into a coherent stream, so instead I’d like to share some more music with the world. Both delightful dubstep-type tunes but very chilled and minimal. Great “doing stuff” music!
 
-http://youtu.be/BFCMnWRIv6Y
+https://youtu.be/BFCMnWRIv6Y
 
-http://youtu.be/OnmyTq5QwqU
+https://youtu.be/OnmyTq5QwqU
 
 

@@ -21,7 +21,7 @@ Up until now, you had essentially two choices when purchasing SSD storage for yo
 1. <span style="line-height: 15px;">Buy SLC disks at a considerable premium from the likes of Toshiba or STEC or, god forbid, OCZ. These disks are much more durable and are truly aimed at the ‘enterprise’ customers who are paranoid about their SSDs all burning out at the same time, causing massive data loss in mission-critical applications.</span>
 2. Buy cheaper MLC-based storage media and work in multiple layers of redundancy to account for faster cell degradation. If you wanted bleeding-edge performance, you’d also need to build in striping in your array to make up for the reduced write performance of MLCs as compared to SLCs.
 
-Now, Smart Storage have come along and are starting to turn this model on its head with a range of enterprise-grade MLC-based SSD devices. They’ve built additional data integrity into the design of their hardware, meaning, [according to their spec](http://www.smartstoragesys.com/products/optimus_ssd.asp):
+Now, Smart Storage have come along and are starting to turn this model on its head with a range of enterprise-grade MLC-based SSD devices. They’ve built additional data integrity into the design of their hardware, meaning, [according to their spec](https://www.smartstoragesys.com/products/optimus_ssd.asp):
 
 > Optimus SSDs can endure 10 full random drive writes per day for a period of five years using commercial MLC NAND flash technology
 

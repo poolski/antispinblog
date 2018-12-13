@@ -18,7 +18,7 @@ Here’s a nifty infographic to summarise this shit.
 
 ![](https://antisp.in/blog/wp-content/uploads/2011/11/SOPAinfographic.jpg "SOPAinfographic")
 
-Not all hope is lost, though. [AVAAZ](http://www.avaaz.org/en/save_the_internet_us/) and a bunch of other sites are bringing people together to let the US Senate know that this bill has opposition and that people are fed up of corporations trying to stifle free speech for the purposes of profit. Sorry, that sounded far too communistic but I couldn’t think of a better way of wording that.
+Not all hope is lost, though. [AVAAZ](https://www.avaaz.org/en/save_the_internet_us/) and a bunch of other sites are bringing people together to let the US Senate know that this bill has opposition and that people are fed up of corporations trying to stifle free speech for the purposes of profit. Sorry, that sounded far too communistic but I couldn’t think of a better way of wording that.
 
 Here’s another great explanation of why this shit is horrible
 

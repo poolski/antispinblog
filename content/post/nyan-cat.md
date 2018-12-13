@@ -14,6 +14,6 @@ title = "Nyan Cat"
 
 Someone introduced this music thing to me. It’s horrible, but catchy. Listen to it.
 
-http://youtu.be/AAiCRuK98ig
+https://youtu.be/AAiCRuK98ig
 
 

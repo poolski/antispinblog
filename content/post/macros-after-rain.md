@@ -17,7 +17,7 @@ I shot some macros outside in the garden just after it had finished raining and 
  
 
 <figure class="thumbnail wp-caption aligncenter" id="attachment_947" style="width: 610px">
-![](http://antisp.in/blog/wp-content/uploads/2011/05/f5383808.jpg)
+![](https://antisp.in/blog/wp-content/uploads/2011/05/f5383808.jpg)
 <figcaption class="caption wp-caption-text">One of my white roses!</figcaption></figure> 
 
  

@@ -17,13 +17,13 @@ I want to introduce folks to a concept I’ve been thrashing out in my head whil
 
 ### The Lead-up
 
-While playing around with a bunch of new stuff that I had seen in various videos on YouTube – [Rastaxel](http://www.youtube.com/watch?v=gLUszCgu8F8), [PoiBoy](http://www.youtube.com/watch?v=7uGuJAfdMVk), [Drex](http://www.youtube.com/watch?v=UaCvVoBvXLQ), [Alien Jon](http://www.youtube.com/watch?v=W2VUXCvkOxo), [G](http://www.youtube.com/watch?v=rz4G9kjq0jE), etc – I came across countless moves that looked awesome and appeared to flow very well and were actually very simple at the core. The complexity came from being able to apply the physics of your poi movements in a new way that you had never done before!
+While playing around with a bunch of new stuff that I had seen in various videos on YouTube – [Rastaxel](https://www.youtube.com/watch?v=gLUszCgu8F8), [PoiBoy](https://www.youtube.com/watch?v=7uGuJAfdMVk), [Drex](https://www.youtube.com/watch?v=UaCvVoBvXLQ), [Alien Jon](https://www.youtube.com/watch?v=W2VUXCvkOxo), [G](https://www.youtube.com/watch?v=rz4G9kjq0jE), etc – I came across countless moves that looked awesome and appeared to flow very well and were actually very simple at the core. The complexity came from being able to apply the physics of your poi movements in a new way that you had never done before!
 
 These moves stand out and look great on their own but something I found while learning them was the nascent seed of this idea at the back of my mind was making itself heard:
 
 > This move is really hard to get into on its own! How does it connect to the bigger picture?
 
-![](http://antisp.in/blog/wp-content/uploads/2011/04/200252_544568141777_285601433_2139404_2726045_n.jpg)I saw it for the first time from the outside, as it were, while I was in Bali. I was helping a friend with learning isolations and she was finding it difficult to start an isolation in the first place. Those of you who have played with them will know what I mean. So I suggested that she try approaching it from a different angle: start from a move she knew and then break into isolation.
+![](https://antisp.in/blog/wp-content/uploads/2011/04/200252_544568141777_285601433_2139404_2726045_n.jpg)I saw it for the first time from the outside, as it were, while I was in Bali. I was helping a friend with learning isolations and she was finding it difficult to start an isolation in the first place. Those of you who have played with them will know what I mean. So I suggested that she try approaching it from a different angle: start from a move she knew and then break into isolation.
 
 ### The Idea
 
@@ -64,6 +64,6 @@ I can’t emphasise this enough. If, at any point, you find yourself getting fru
 
 If I have time, I’ll get some of these ideas on video with some demonstrations of things to try and how these ground-state moves work!
 
-![](http://antisp.in/blog/wp-content/uploads/2011/04/188418_544568201657_285601433_2139408_3759038_n.jpg)
+![](https://antisp.in/blog/wp-content/uploads/2011/04/188418_544568201657_285601433_2139408_3759038_n.jpg)
 
 

@@ -20,9 +20,9 @@ So here are some of the awesome tracks I’ve had the pleasure to experience!
 
 Quite ignoring the gorgeous glitchy remix of the song, the video editing and style of the video match the track perfectly. It’s really rather incredible.
 
-http://www.youtube.com/watch?v=b9DSSsRyLeo
+https://www.youtube.com/watch?v=b9DSSsRyLeo
 
-Bonobo’s new album, The North Borders is much more consistent thematically than Black Sands. For a mere £5 it can be yours in its entirety from [here](http://bonobomusic.com/shop). If you feel like paying Apple or Amazon a 50% markup, you can also get it on iTunes or Amazon. But fuck that, seriously; support the artist, you philistines.
+Bonobo’s new album, The North Borders is much more consistent thematically than Black Sands. For a mere £5 it can be yours in its entirety from [here](https://bonobomusic.com/shop). If you feel like paying Apple or Amazon a 50% markup, you can also get it on iTunes or Amazon. But fuck that, seriously; support the artist, you philistines.
 
 <iframe allowfullscreen="" frameborder="0" height="486" src="https://www.youtube.com/embed/D6fh9kdnk0U?feature=oembed" width="648"></iframe>
 

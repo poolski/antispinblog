@@ -12,15 +12,15 @@ title = "Cultural Differences"
 +++
 
 
-![](http://eve-online.com/)
+![](https://eve-online.com/)
 
 As those of you not living under a digital rock may be aware, BoB is no longer.
 
-See: [http://myeve.eve-online.com/ingameboard.asp?a=topic&threadID=990381](http://myeve.eve-online.com/ingameboard.asp?a=topic&threadID=990381) if you do exist under 10 thousand tons of e-rock.
+See: [https://myeve.eve-online.com/ingameboard.asp?a=topic&threadID=990381](https://myeve.eve-online.com/ingameboard.asp?a=topic&threadID=990381) if you do exist under 10 thousand tons of e-rock.
 
 Since then, we have made a beeline (hah, bee joke!) for Delve, understandably, along with the rest of our motley crew of allies (Pandemic Legion, Razor, ZAF, UNL, etc), well-wishers (everyone that hates BoB) and space ninjas (hi TCF!). Since then, we have been steadily gaining ground in systems in Delve.
 
-And, as always, [The Mittani](http://www.shacknews.com/featuredarticle.x?id=527 "The Mittani gets interviewd") has kept us fed with verbose pornography comprised of intel and spy and forum dumps of the delicious tears of our enemies and their associated pets and corporations. It’s certainly been fun reading about what our enemies think of us and the former Band of Brothers, their supposed allies!
+And, as always, [The Mittani](https://www.shacknews.com/featuredarticle.x?id=527 "The Mittani gets interviewd") has kept us fed with verbose pornography comprised of intel and spy and forum dumps of the delicious tears of our enemies and their associated pets and corporations. It’s certainly been fun reading about what our enemies think of us and the former Band of Brothers, their supposed allies!
 
 These pieces in particular caught my eye:
 

@@ -13,6 +13,6 @@ title = "The Story of Hip Hop"
 
 I’m sitting on a sheepskin in the Isle of Skye and listening to music. You should hear this.
 
-http://www.youtube.com/watch?v=UUT6b3sxSVs
+https://www.youtube.com/watch?v=UUT6b3sxSVs
 
 

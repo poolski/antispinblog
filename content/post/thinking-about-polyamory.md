@@ -39,7 +39,7 @@ I also know that it’s *fucking dangerous*.
 
 If neither you nor your partner have really considered polyamory before, take your time and do some basic research first.
 
-There are a myriad really useful pieces of writing on the subject, the Ethical Slut probably being the most well-known. There are a number of blogs out there with great contributors – my favourite is the [Polyamorous Misanthrope](http://polyamorousmisanthrope.com "Polyamorous Misanthrope") blog which contains so many useful bits of writing.
+There are a myriad really useful pieces of writing on the subject, the Ethical Slut probably being the most well-known. There are a number of blogs out there with great contributors – my favourite is the [Polyamorous Misanthrope](https://polyamorousmisanthrope.com "Polyamorous Misanthrope") blog which contains so many useful bits of writing.
 
 And when I say: “Do basic research”, I mean “Sit down with your partner and read about it *together*“. This absolutely **has** to be a joint decision. It’s no good saying to your partner: “Hey I think poly is wonderful! Everyone loves it and we should try it! We’ll pick it up as we go!”. It has a chance of going well, but if you dive in at the deep end, without knowing what you’re getting yourselves in for, it can end in tears.
 
