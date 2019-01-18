@@ -40,15 +40,22 @@ Update: I’ve drawn some quick & dirty nodegraphs to illustrate what happens wh
 
 In this (very simplistic) illustration of the Internet, Node 1 is trying to connect to Node 7. The **bold** path is the path its network traffic takes across the ‘net.
 
+![](https://ap-content.storage.googleapis.com/2014/08/Selection_045.png)
+Everything is normal – traffic is routed according to the hop distance (fewest nodes to target). This isn’t always how it works in reality, but for the purposes of this example, it’ll do.
+
+![](https://ap-content.storage.googleapis.com/2014/08/Selection_046.png) Node 4’s administrator notices the problem, applies the fix and reboots the router, causing all routes that are using Node 4 to fail and have to be re-calculated.
+
+![](https://ap-content.storage.googleapis.com/2014/08/Selection_047.png)
+Node 8's admin also notices a problem, patches the router and reboots it. 
+
 ![](https://ap-content.storage.googleapis.com/2014/08/Selection_048.png)
+Nodes 4 and 8 are offline pending a reboot, so the path from N1 to N7 is routed through N2 and N6. *Any addresses behind N4 and N8 are offline and become un-routable. It’s as though they no longer exist. *
 
-Everything is normal – traffic is routed according to the hop distance (fewest nodes to target). This isn’t always how it works in reality, but for the purposes of this example, it’ll do.![](https://ap-content.storage.googleapis.com/2014/08/Selection_046.png) Node 4’s administrator notices the problem, applies the fix and reboots the router, causing all routes that are using Node 4 to fail and have to be re-calculated.
+![](https://ap-content.storage.googleapis.com/2014/08/Selection_049.png)
+N4 is back online but now has to re-create its routing table and only adds N1 and N7, so it can no longer route to N3 and N5
 
-![](https://ap-content.storage.googleapis.com/2014/08/Selection_051.png)Nodes 4 and 8 are offline pending a reboot, so the path from N1 to N7 is routed through N2 and N6. *Any addresses behind N4 and N8 are offline and become un-routable. It’s as though they no longer exist. *
-
-![](https://ap-content.storage.googleapis.com/2014/08/Selection_051.png)N4 is back online but now has to re-create its routing table and only adds N1 and N7, so it can no longer route to N3 and N5
-
-![](https://ap-content.storage.googleapis.com/2014/08/Selection_050.png)N8 is back online and starts to recreate its routing table, adding N1 and N4 as its available nodes.
+![](https://ap-content.storage.googleapis.com/2014/08/Selection_050.png)
+N8 is back online and starts to recreate its routing table, adding N1 and N4 as its available nodes.
 
 ![](https://ap-content.storage.googleapis.com/2014/08/Selection_051.png)After the nodes reboot, this is the final state of the network. As you can see, N4 and N8 have not got their original routes back, necessarily.
 
